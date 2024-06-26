@@ -1,0 +1,3 @@
+# Ignore all CSV files
+train.csv
+movies.csv
